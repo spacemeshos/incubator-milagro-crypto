@@ -24,7 +24,7 @@ package main
 
 import "fmt"
 
-import "github.com/spacemeshos/incubator-milagro-crypto/amcl/version3/go/amcl"
+import "github.com/milagro-crypto/amcl/version3/go/amcl"
 
 //import "amcl"
 
