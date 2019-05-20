@@ -21,7 +21,7 @@ under the License.
 
 package BLS381
 
-import "github.com/milagro-crypto/amcl/version3/go/amcl"
+import "github.com/spacemeshos/incubator-milagro-crypto/amcl/version3/go/amcl"
 
 //import "fmt"
 

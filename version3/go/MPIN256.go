@@ -22,7 +22,7 @@ under the License.
 package XXX
 
 import "time"
-import "github.com/milagro-crypto/amcl/version3/go/amcl"
+import "github.com/spacemeshos/incubator-milagro-crypto/amcl/version3/go/amcl"
 
 //import "fmt"
 
